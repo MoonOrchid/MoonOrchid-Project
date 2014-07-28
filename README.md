@@ -1,6 +1,6 @@
 MoonOrchid-Project
 ==================
 
-TeamworkProjectTeamworkProject
+TeamworkProject
 
 JavaScript
