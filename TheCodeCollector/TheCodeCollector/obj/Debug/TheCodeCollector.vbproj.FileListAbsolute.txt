@@ -1,0 +1,8 @@
+C:\Users\Plamena Nikolova\Desktop\JavaScript\TheCodeCollector\TheCodeCollector\bin\TheCodeCollector.dll
+C:\Users\Plamena Nikolova\Desktop\JavaScript\TheCodeCollector\TheCodeCollector\bin\TheCodeCollector.pdb
+C:\Users\Plamena Nikolova\Desktop\JavaScript\TheCodeCollector\TheCodeCollector\bin\TheCodeCollector.xml
+C:\Users\Plamena Nikolova\Desktop\JavaScript\TheCodeCollector\TheCodeCollector\obj\Debug\TheCodeCollector.Resources.resources
+C:\Users\Plamena Nikolova\Desktop\JavaScript\TheCodeCollector\TheCodeCollector\obj\Debug\TheCodeCollector.vbproj.GenerateResource.Cache
+C:\Users\Plamena Nikolova\Desktop\JavaScript\TheCodeCollector\TheCodeCollector\obj\Debug\TheCodeCollector.dll
+C:\Users\Plamena Nikolova\Desktop\JavaScript\TheCodeCollector\TheCodeCollector\obj\Debug\TheCodeCollector.xml
+C:\Users\Plamena Nikolova\Desktop\JavaScript\TheCodeCollector\TheCodeCollector\obj\Debug\TheCodeCollector.pdb
