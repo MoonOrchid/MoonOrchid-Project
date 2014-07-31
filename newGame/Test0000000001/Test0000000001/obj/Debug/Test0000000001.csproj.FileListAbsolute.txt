@@ -1,0 +1,6 @@
+c:\users\iliq9204\documents\visual studio 2013\Projects\Test0000000001\Test0000000001\bin\Test0000000001.dll.config
+c:\users\iliq9204\documents\visual studio 2013\Projects\Test0000000001\Test0000000001\bin\Test0000000001.dll
+c:\users\iliq9204\documents\visual studio 2013\Projects\Test0000000001\Test0000000001\bin\Test0000000001.pdb
+c:\users\iliq9204\documents\visual studio 2013\Projects\Test0000000001\Test0000000001\obj\Debug\Test0000000001.csprojResolveAssemblyReference.cache
+c:\users\iliq9204\documents\visual studio 2013\Projects\Test0000000001\Test0000000001\obj\Debug\Test0000000001.dll
+c:\users\iliq9204\documents\visual studio 2013\Projects\Test0000000001\Test0000000001\obj\Debug\Test0000000001.pdb
